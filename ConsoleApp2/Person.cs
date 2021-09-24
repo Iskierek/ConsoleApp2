@@ -19,16 +19,17 @@ using System.Threading.Tasks;
         // IDz do przodu
         }
 
-        public static void WalkBAckword()
-        { 
-            int dlugoscnogi = 50;
-            int numberofsteps = 20;
+        //////public static void walkbackward()
+        //////{ 
+        //////    int dlugoscnogi = 50;
+        //////    int numberofsteps = 20;
 
-            Console.WriteLine(dlugoscnogi * numberofsteps);
+
+        //////    console.writeline(dlugoscnogi * numberofsteps);
      
-        }
+        //////}
 
-        public static void Talk()
+        public void Talk()
         {
        
         }
